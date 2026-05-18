@@ -1,2 +1,2 @@
 # Amazon-clone
-css based practice project 
+html and css based practice project 
